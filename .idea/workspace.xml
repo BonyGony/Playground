@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dc04e2a-e4b4-4a0b-8374-a915117e4e86" name="Changes" comment="Books: 가상 면접 사례로 배우는 대규모 시스템 설계 기초&#10;&#10;- 2장 개략적인 규모 추정">
-      <change afterPath="$PROJECT_DIR$/Books/가상 면접 사례로 배우는 대규모 시스템 설계 기초/3장.md" afterDir="false" />
+    <list default="true" id="3dc04e2a-e4b4-4a0b-8374-a915117e4e86" name="Changes" comment="Books: 가상 면접 사례로 배우는 대규모 시스템 설계 기초&#10;&#10;- 3장 시스템 설계 면접 공략법">
+      <change afterPath="$PROJECT_DIR$/Books/가상 면접 사례로 배우는 대규모 시스템 설계 기초/4장.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Books/가상 면접 사례로 배우는 대규모 시스템 설계 기초/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Books/가상 면접 사례로 배우는 대규모 시스템 설계 기초/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,7 @@
       <option name="presentableId" value="Default" />
       <updated>1661429413503</updated>
       <workItem from="1661429414680" duration="6006000" />
-      <workItem from="1661772807126" duration="3418000" />
+      <workItem from="1661772807126" duration="7586000" />
     </task>
     <task id="LOCAL-00001" summary="Books: 가상 면접 사례로 배우는 대규모 시스템 설계 기초&#10;&#10;- 2장 개략적인 규모 추정">
       <created>1661776186393</created>
@@ -55,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661776186393</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Books: 가상 면접 사례로 배우는 대규모 시스템 설계 기초&#10;&#10;- 3장 시스템 설계 면접 공략법">
+      <created>1661777363316</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661777363316</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Books: 가상 면접 사례로 배우는 대규모 시스템 설계 기초&#10;&#10;- 2장 개략적인 규모 추정" />
-    <option name="LAST_COMMIT_MESSAGE" value="Books: 가상 면접 사례로 배우는 대규모 시스템 설계 기초&#10;&#10;- 2장 개략적인 규모 추정" />
+    <MESSAGE value="Books: 가상 면접 사례로 배우는 대규모 시스템 설계 기초&#10;&#10;- 3장 시스템 설계 면접 공략법" />
+    <option name="LAST_COMMIT_MESSAGE" value="Books: 가상 면접 사례로 배우는 대규모 시스템 설계 기초&#10;&#10;- 3장 시스템 설계 면접 공략법" />
   </component>
 </project>
